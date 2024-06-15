@@ -80,3 +80,4 @@ RSA - это асимметричный метод шифрования, кот�
 * [The difference in five modes in the AES encryption algorithm](https://www.highgo.ca/2019/08/08/the-difference-in-five-modes-in-the-aes-encryption-algorithm/)
 * [Как работает AES (Advanced Encryption Standard)?](https://vc.ru/dev/656195-kak-rabotaet-aes-advanced-encryption-standard-obyasnenie-dlya-gumanitariev-tipa-menya)
 * [crypt-online.ru](https://crypt-online.ru/crypts/base64/)
+* [НашGPT](https://t.me/NashGPTbot)
